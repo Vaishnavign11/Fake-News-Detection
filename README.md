@@ -3,6 +3,7 @@
 Fake News detection is basically to predict the news and try to analyse and predict whether it is real or fake.  
 
 Input: giving a text of an article 
+
 output: It predicts whether it is real or fake 
 
 Homepage:
